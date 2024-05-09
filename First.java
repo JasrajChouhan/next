@@ -16,7 +16,7 @@ public class First {
     }
 
     public static void main(String[] args) {
-        int a[] = {2,1,4,-9,50} ;
+        int a[] = {2,1,4,-9,50 , 34 , 56 ,56 , 89 ,90} ;
         insertionSort(a);
     }
 }
